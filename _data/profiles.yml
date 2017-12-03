@@ -1,12 +1,6 @@
-- name: John Doe
-  facebook: JohnDoe
-  twitter: JohnDoe
-  snapchat: JohnDoe
-  instagram: JohnDoe
-  linkedin: JohnDoe
-  medium: JohnDoe
-  github: JohnDoe
-  gitlab: JohnDoe
-  google-plus: JohnDoe
-  reddit: JohnDoe
-  spotify: JohnDoe
+- name: Anna Fish
+  facebook: anna.fish.902
+  twitter: imannafish
+  snapchat: imannafish
+  instagram: imannafish
+  github: annafish96
